@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   width: 100%;
   height: 100%;
-  background-image: url('https://github.com/Katanaco/jonathancschmitt.com/blob/master/images/print1.jpg');
+  background-image: url('/images/print1.jpg');
   color: #c992ce;
   text-shadow: 0 1px #000000;
 }
