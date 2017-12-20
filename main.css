@@ -5,6 +5,7 @@ html, body {
   height: 100%;
   background-image:url('https://github.com/Katanaco/jonathancschmitt.com/blob/master/images/print1.jpg');
   background-position: center top;
+  background-repeat: no-repeat;
   background-size: contain;
   color: #c992ce;
   text-shadow: 0 1px #000000;
