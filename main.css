@@ -7,23 +7,29 @@ html, body {
 }
 
 h1 {
-  color: rgba(158, 209, 190, 0.9);
+  color: rgba(158, 209, 190, 0.85);
   padding-top: 80px;
   font-size: 64px;
   text-align: center;
   box-shadow: 5px 10px rgba(158, 209, 190, 0.7);
-  text-shadow: 1px 2px rgba(0,0,0,0.2);
+  text-shadow: 1px 2px rgba(0,0,0,0.3);
+}
+
+h3 {
+  color: rgba(100,50,50, .7);
+  font-size: 32px;
+  text-align: center;
+  text-shadow: 1px 1px (rgba(255,255,255,0.4));
 }
 
 p {
-  max-width: 65%;
-  min-width: 500px;
+  max-width: 100%;
   color: #19bcb8;
 }
 
 h2 {
   text-align: center;
-  font-size: 46px;
+  font-size: 40px;
 }
 
 div {
@@ -37,14 +43,15 @@ div {
   background-image: url('images/back1.png');
   background-size: auto;
   opacity: 0.6;
-  color: rgba(62,72,79,.7);
+  color: rgb(224,146,136);
+  text-shadow: 1px 2px rgba(255,255,255,.4);
   padding-left: 100px;
   padding-right: 100px;
   padding-top: 5px;
 }
 
 .aboutme h2 {
-  font-size: 46px;
+  font-size: 40px;
   text-align: center;
 }
 
