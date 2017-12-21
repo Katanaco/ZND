@@ -46,6 +46,7 @@ div {
 .aboutme {
   height: 800px;
   width: -webkit-fill-available;
+  width: -mox-available;
   overflow: no-content;
   background-image: url('images/back1.png');
   background-size: cover;
