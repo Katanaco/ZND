@@ -6,13 +6,17 @@ html, body {
   color: #000000;
 }
 
+a {
+  color: #21b298;
+}
+
 h1 {
-  color: rgba(158, 209, 190, 0.85);
+  color: rgba(158, 209, 190, 0.8);
   padding-top: 80px;
   font-size: 64px;
   text-align: center;
   box-shadow: 5px 10px rgba(158, 209, 190, 0.7);
-  text-shadow: 1px 2px rgba(0,0,0,0.3);
+  text-shadow: 1px 2px 3px rgba(0,0,0,0.3);
 }
 
 h2 {
@@ -48,7 +52,7 @@ div {
   width: -webkit-fill-available;
   width: -moz-available;
   overflow: no-content;
-  background-image: url('images/back1.png');
+  background-image: url('images/back4.jpg');
   background-size: cover;
   background-position: center center;
   opacity: 0.6;
@@ -57,6 +61,7 @@ div {
   padding-left: 100px;
   padding-right: 100px;
   padding-top: 5px;
+  box-shadow: 0px 2px 7px rgba(0,0,0,.4);
 }
 
 .aboutme h2 {
@@ -80,7 +85,7 @@ h2 {
   font-size: 40px;
 }
 
-.parallax1, .parallax2 {
+.parallax1, .parallax2, .parallax3 {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -96,6 +101,11 @@ h2 {
   background-image: url('images/para2.jpg');
   height: 300px;
 } 
+
+.parallax3 {
+  background-image: url('images/para3.jpg');
+  height: 300px;
+}
 
 .container {
   display: flex;
