@@ -1,2 +1,2 @@
-# jonathancschmitt.com
-Jonathan Schmitt, personal website
+# znd
+SKNC ZND
